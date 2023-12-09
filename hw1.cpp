@@ -1,7 +1,5 @@
 // Saxton Van Dalsen
 // hw1.cpp
-// Purpose: This program 
-// Input: 
 #include <iostream>
 #include <string>
 #include <fstream> 
