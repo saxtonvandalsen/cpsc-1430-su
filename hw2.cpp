@@ -3,7 +3,7 @@
 // Purpose: To create objects that represent a set of integer in the range of 0 to 100,
 // the program uses an internal array to track elements is they belong to the set marked as 1 or 0 if not.
 #include <iostream>
-#include "IntegerSet.h"
+#include "IntegerSet-hw2.h"
 using namespace std;
 
 int main (){
