@@ -5,4 +5,4 @@ CPCS-1430 Seattle U Fall '23
 ## Subheader
 
 I'm archiving all of my work from my Fall Quarter 2023 CPCS-1430 Programming and
-problem solving II class from Seattle University.
+Problem Solving II class from Seattle University.
