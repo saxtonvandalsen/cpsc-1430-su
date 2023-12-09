@@ -1,6 +1,7 @@
 #include <iostream>
 #include "FancyList.h"
 using namespace std;
+// Linked list header file
 
 FancyList::FancyList(){
     head = nullptr;
